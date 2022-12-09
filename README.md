@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Salimbabiat16
+- 👋 Hi, I’m @Salimbabiat16 but you can call me JON!
 - 👀 I’m interested in programming and networking.
 - 🌱 I’m currently learning Haskall and Erlang
 - 📫 Just text me jeremiaoktavian@gmail.com
